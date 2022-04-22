@@ -37,7 +37,7 @@ public class MainClass {
 
 //            CREATE
             session = factory.getCurrentSession();
-            Catalog catalog = new Catalog("Fantasy #17");
+            Catalog catalog = new Catalog("Horror #1");
             session.beginTransaction();
             session.save(catalog);
             session.getTransaction().commit();

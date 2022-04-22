@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\GeekBrains ВТБ (Java для молодых специалистов Банка ВТБ(ПАО))\Лекция 11\hibernate-ex\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
